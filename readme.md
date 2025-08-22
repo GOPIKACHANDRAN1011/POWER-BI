@@ -34,8 +34,15 @@ It provides insights into Netflix's content library including **genre distributi
 yaml
 Copy
 Edit
+---
+
+## 📷 Dashboard Preview
+Here is the Power BI dashboard built for Netflix data analysis:  
+
+<img width="1166" height="655" alt="Screenshot 2025-08-22 111312" src="https://github.com/user-attachments/assets/3486e39b-aa79-4bd3-9955-328025c4688b" />
 
 ---
+
 
 ## 🚀 How to Run the Project
 ### 1️⃣ Python Analysis
